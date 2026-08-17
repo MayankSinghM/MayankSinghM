@@ -137,3 +137,9 @@ Prompt Engineering
 FastAPI
 Backend Architecture
 System Design
+```
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-singh-manral-55b81b2a9/)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankmanral35@gmail.com)
